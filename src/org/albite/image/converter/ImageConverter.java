@@ -20,7 +20,6 @@ import javax.imageio.ImageIO;
 public class ImageConverter {
     public static final int MAGIC_NUMBER_ALBI = 1095516745;
     public static final String FILE_EXTENSION = ".ali";
-
     private static String IMAGE_ERROR_MSG = "ERROR. Cannot build image.\n";
 
     private ImageConverter() {}
